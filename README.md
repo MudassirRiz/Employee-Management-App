@@ -52,7 +52,7 @@ MONGO_URI=your_database_url
 
 * `.env` file is added to `.gitignore`
 * `node_modules` is not pushed to GitHub
-* This project is created for learning and educational purposes
+* This project is created for learning and educational purposes and to check my true knowledge
 
 ## 👨‍💻 Author
 
